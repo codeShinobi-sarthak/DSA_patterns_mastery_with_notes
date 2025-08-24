@@ -102,7 +102,7 @@ You are given `N` books with pages. `M` students must be assigned books so that 
 
 ---
 
-## Here’s a **simple list** of additional **Binary Search** questions for **extra practice** 🚀
+## Here’s a **simple list** of additional **Binary Search** questions for **extra code_forces** 🚀
 
 ### 🔹 **Basic Binary Search Questions**
 1️⃣ **Find Square Root using Binary Search** (LeetCode 69)  

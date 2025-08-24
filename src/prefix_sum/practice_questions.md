@@ -1,4 +1,4 @@
-🚀 Here's a hand-picked list of **important DSA problems** to practice using the **Prefix Sum pattern**, ranging from easy to hard — each one helps you master a different twist of the concept.
+🚀 Here's a hand-picked list of **important DSA problems** to code_forces using the **Prefix Sum pattern**, ranging from easy to hard — each one helps you master a different twist of the concept.
 
 ---
 

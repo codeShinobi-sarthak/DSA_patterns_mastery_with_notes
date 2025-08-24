@@ -1,4 +1,4 @@
-package practice;
+package code_forces;
 
 
 // codeforces
