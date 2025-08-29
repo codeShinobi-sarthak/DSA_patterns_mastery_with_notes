@@ -1,6 +1,8 @@
 # 📘 DSA Pattern Series in Java
 
-This repository contains my personal notes and Java implementations of common **DSA (Data Structures & Algorithms) Patterns**. It's built to help me (and anyone else) prepare for coding interviews by understanding patterns instead of memorizing problems.
+This repository contains my personal notes. It's built to help me (and anyone else) prepare for coding interviews by understanding patterns instead of memorizing problems.
+
+> NOTE: Java implementations of common **DSA (Data Structures & Algorithms) Patterns** are there in another repo [DSA_NOTES](https://github.com/codeShinobi-sarthak/Java-with-DSA)
 
 ---
 
@@ -51,3 +53,4 @@ This is a work in progress — updated as I learn!
 - Suggest improvements via pull requests
 
 ---
+
