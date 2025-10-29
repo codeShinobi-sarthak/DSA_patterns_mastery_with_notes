@@ -128,7 +128,7 @@ How to get `-5`:
 
 ---
 
-# 📜 Ultra-Simplified Memory Tip:
+# 📜Simplified Memory Tip:
 
 | What it does? | How it works? |
 |:------------|:-------------|

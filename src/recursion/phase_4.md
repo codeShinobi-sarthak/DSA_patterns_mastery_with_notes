@@ -141,7 +141,3 @@ void partition(String s, int start, List<String> path, List<List<String>> result
 | N-Queens / Sudoku / Maze      |          |
 
 ---
-
-Let me know if you want a **quiz**, **worksheet**, or a **step-by-step roadmap** to tackle these!
-
-Or if you're ready... we can begin with **Subsets** 🌱🧮
